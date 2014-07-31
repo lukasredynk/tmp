@@ -5,6 +5,7 @@ int main() {
   printTmpSample();
 
   printDateAndTime();
+  printTmpSample2();
 
   return(0);
 }
